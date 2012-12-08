@@ -17,4 +17,6 @@ class Site extends CI_Controller {
             redirect('site/index');  
 		}
     }
+	
+	//blad
 }

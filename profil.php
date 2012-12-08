@@ -10,7 +10,7 @@
         echo $item->typ == 1 ? 'Administrator' : 'Handlowiec';
         echo '</p>';
     }
-	
+	//nowe zmiany w plikach
 	//to jest testowanie dzialania 
 	//kolejna zmiana
 ?>
