@@ -13,6 +13,8 @@ class Site extends CI_Controller {
         if($this->user_baza->sprawdz()==true)
             redirect('user/profil');
         else
-            redirect('site/index');   
+		{
+            redirect('site/index');  
+		}
     }
 }
