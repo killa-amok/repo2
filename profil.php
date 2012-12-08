@@ -10,5 +10,7 @@
         echo $item->typ == 1 ? 'Administrator' : 'Handlowiec';
         echo '</p>';
     }
+	
+	//to jest testowanie dzialania 
 ?>
 </fieldset>
