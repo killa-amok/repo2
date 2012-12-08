@@ -12,5 +12,6 @@
     }
 	
 	//to jest testowanie dzialania 
+	//kolejna zmiana
 ?>
 </fieldset>
